@@ -59,15 +59,6 @@ algolia
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
-        width="48"
-        height="48"
-        alt="TypeScript"
-      />
-      <br/> <strong>TypeScript </strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
         width="48"
         height="48"
@@ -105,6 +96,17 @@ algolia
       <br /><strong>MongoDB</strong>
     </td>
   </tr>  <!-- Start Table Row 2 --> 
+  <tr>  <!-- Start Table Row 3 -->  
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        width="48"
+        height="48"
+        alt="Visual Studio Code"
+      />
+      <br/> <strong>TypeScript </strong>
+    </td>
+   </tr>  <!-- Start Table Row 3 --> 
 </table>  
           
           
