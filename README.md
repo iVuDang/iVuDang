@@ -150,11 +150,10 @@
     </td>  
   </tr>  <!-- End - Table Row 2 -->              
 </table>  
-        
-                                
+
+                         
 <!-- TOP LANGUAGES BAR --> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVuDang&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-                 
 
 - - - -
 
@@ -164,13 +163,19 @@
 
 
                          
-                         
 <!-- PROJECTS TIMELINE  -->
 ### :card_index_dividers: Projects Listing Timeline 
 
-**freeCodeCamp - Computing with Python** 
-                         
+<strong> freeCodeCamp - Computing with Python </strong>
 
+                         
+<strong> freeCodeCamp - Responsive Web Design </strong>    
+[Build-a-Product-Landing-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page)
+[Build-a-Personal-Portfolio-Webpage](https://github.com/iVuDang/freeCodeCamp-Build-a-Personal-Portfolio-Webpage)
+[Build a Survey Form](https://github.com/iVuDang/freeCodeCamp-Build-a-Survey-Form)
+[Build-a-Technical-Documentation-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Technical-Documentation-Page)
+[Build-a-Tribute-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page)
+                         
                          
 <strong> The Odin Project </strong>
 * [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
