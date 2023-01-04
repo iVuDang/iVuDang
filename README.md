@@ -14,6 +14,10 @@ Here are some ideas to get you started:
 - 😄 
 - ⚡ Fun fact: ...
 - Travel... 
+
+react
+github_dark
+algolia
 -->
 
 
