@@ -26,6 +26,9 @@ algolia
 -->
 
 
+- - - -
+
+<!-- SKILLS TABLE AND ICONS --> 
 
 ## :computer: Technologies & Tools
 
