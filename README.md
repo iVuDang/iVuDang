@@ -68,12 +68,12 @@ algolia
       <br/> <strong> Python </strong>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
         width="48"
         height="48"
         alt="HTML"
       />
-      <br/> <strong> C++ </strong>
+      <br/> <strong> SQL </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
