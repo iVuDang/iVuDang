@@ -3,7 +3,16 @@
 <!--
 **iVuDang/iVuDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+
+react
+github_dark
+algolia
+
+:airplane:
+:world_map:
+:earth_asia:
+-->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -15,16 +24,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 - Travel... exploring, adventures, 
 Media production, art of visual storytelling through film and sound
-
-react
-github_dark
-algolia
-
-:airplane:
-:world_map:
-:earth_asia:
--->
-
 
 - - - -
 
@@ -137,6 +136,15 @@ algolia
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"
+        width="48"
+        height="48"
+        alt="Illustrator"
+      />
+      <br/> <strong> Illustrator </strong>
+    </td>  
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
         width="48"
         height="48"
         alt="Illustrator"
