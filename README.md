@@ -95,6 +95,15 @@ algolia
       />
       <br /><strong> Git </strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
+        width="48"
+        height="48"
+        alt="GitHub"
+      />
+      <br /><strong> GitHub </strong>
+    </td>
   </tr>  <!-- Start Table Row 2 --> 
   <tr>  <!-- Start Table Row 3 -->  
     <td align="center" height="108" width="108">
