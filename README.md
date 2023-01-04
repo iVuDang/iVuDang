@@ -147,18 +147,18 @@ algolia
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"
         width="48"
         height="48"
-        alt="Canva"
+        alt="Adobe Premiere Pro"
       />
-      <br/> <strong> Canva </strong>
+      <br/> <strong> Adobe Premiere Pro </strong>
     </td>      
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
         width="48"
         height="48"
-        alt="Canva"
+        alt="Adobe Premiere Pro"
       />
-      <br/> <strong> Canva </strong>
+      <br/> <strong> Adobe Premiere Pro </strong>
     </td>          
    </tr>  <!-- Start Table Row 3 --> 
 </table>  
