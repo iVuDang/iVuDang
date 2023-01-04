@@ -168,7 +168,7 @@
 <!-- PROJECTS TIMELINE  -->
 ### Projects Listing Timeline 
 
-** freeCodeCamp - Computing with Python ** 
+**freeCodeCamp - Computing with Python** 
                          
 * 
                          
