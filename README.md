@@ -27,7 +27,7 @@ algolia
 
 
 
-## :sunrise_over_mountains: My Software & Media Stack 
+## :airplane: My Software & Media Stack 
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
