@@ -152,9 +152,19 @@ algolia
       />
       <br/> <strong> Adobe Premiere Pro </strong>
     </td>          
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg"
+        width="48"
+        height="48"
+        alt="Adobe Illustrator"
+      />
+      <br/> <strong> Adobe Illustrator </strong>
+    </td>                    
    </tr>  <!-- Start Table Row 3 --> 
 </table>  
-          
+        
+                                
                                 
 <!-- TOP LANGUAGES BAR --> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVuDang&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
@@ -197,7 +207,6 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg
                                                                   
                                 
 MEDIA
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg
                                 
