@@ -68,7 +68,7 @@ algolia
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-line.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
         width="48"
         height="48"
         alt="TypeScript"
