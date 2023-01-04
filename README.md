@@ -27,7 +27,7 @@ algolia
 
 
 
-## :airplane: My Software & Media Stack 
+## :battery: My Software & Media Stack 
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
