@@ -65,8 +65,26 @@ algolia
         alt="Python""
       />
       <br/> <strong> Python </strong>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br/> <strong> C++ </strong>
     </td>
-  </tr><!-- End - Table Row 1 -->        
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        width="48"
+        height="48"
+        alt="HTML"
+      />
+      <br/> <strong> C++L </strong>
+    </td>
+    </td>
+  </tr> <!-- End - Table Row 1 -->        
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
