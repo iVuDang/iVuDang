@@ -68,6 +68,7 @@ Media production, art of visual storytelling through film and sound
         alt="Python""
       />
       <br/> <strong> Python </strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
@@ -86,7 +87,7 @@ Media production, art of visual storytelling through film and sound
       />
       <br/> <strong> C++ </strong>
     </td>
-      <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
@@ -117,6 +118,24 @@ Media production, art of visual storytelling through film and sound
     </td>
     <td align="center" height="108" width="108">
       <img
+        src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"
+        width="48"
+        height="48"
+        alt="Excel"
+      />
+      <br/> <strong> Excel </strong>
+    </td>   
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
+        width="48"
+        height="48"
+        alt="Power BI"
+      />
+      <br/> <strong> Power BI </strong>
+    </td>   
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
         width="48"
         height="48"
@@ -142,15 +161,6 @@ Media production, art of visual storytelling through film and sound
       />
       <br/> <strong> Illustrator </strong>
     </td>  
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
-        width="48"
-        height="48"
-        alt="Power BI"
-      />
-      <br/> <strong> Power BI </strong>
-    </td>    
   </tr>  <!-- End - Table Row 2 -->              
 </table>  
         
