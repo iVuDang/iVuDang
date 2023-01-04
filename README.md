@@ -174,7 +174,7 @@
 * [Design effective reports in Power BI] (https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)     
                          
 
-[                         ](https://github.com/iVuDang/The-Odin-Project-SQL-Zoo-SELECT-FROM-WHERE)
+[The Odin Project - SQL Zoo](https://github.com/iVuDang/The-Odin-Project-SQL-Zoo-SELECT-FROM-WHERE)
                          
                          
                          
