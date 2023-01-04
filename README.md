@@ -30,7 +30,6 @@ algolia
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
-    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
@@ -74,7 +73,6 @@ algolia
     
   </tr><!-- End - Table Row 1 --> 
           
-  
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
@@ -107,14 +105,14 @@ algolia
     </td>
     
   </tr>  <!-- Start Table Row 2 --> 
-  
 </table>  
           
-
+          
+<!-- TOP LANGUAGES BAR --> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVuDang&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
+<!-- 3D ANIMATED GIT CONTRIBUTION DATA BARS  -->
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
