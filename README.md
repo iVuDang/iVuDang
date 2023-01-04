@@ -166,14 +166,19 @@
                          
                          
 <!-- PROJECTS TIMELINE  -->
-### Projects Listing Timeline 
+### :card_index_dividers: Projects Listing Timeline 
 
 **freeCodeCamp - Computing with Python** 
                          
-* [Design effective reports in Power BI](https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
-                         
+* [Design effective reports in Power BI] (https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
+* [Design effective reports in Power BI] (https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)     
                          
 
+[                         ](https://github.com/iVuDang/The-Odin-Project-SQL-Zoo-SELECT-FROM-WHERE)
+                         
+                         
+                         
+                         
                         
 <!--
 **iVuDang/iVuDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
