@@ -172,7 +172,7 @@
                          
 
                          
-**The Odin Project** 
+<strong> The Odin Project </strong>
 * [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
 * [The-Odin-Project-Calculator](https://github.com/iVuDang/The-Odin-Project-Calculator)
 * [Project: Rock Paper Scissors (Part II)](https://github.com/iVuDang/The-Odin-Project-Rock-Paper-Scissors)                 
