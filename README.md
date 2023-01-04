@@ -163,6 +163,16 @@
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
+                         
+                         
+<!-- PROJECTS TIMELINE  -->
+### Projects Listing Timeline 
+
+** freeCodeCamp - Computing with Python ** 
+                         
+* 
+                         
+                         
 
                         
 <!--
@@ -190,7 +200,7 @@ algolia
 
                          
 <!--
-CITATIONS 
+RESOURCES
 https://devicon.dev/
 
 https://github.com/anuraghazra/github-readme-stats
@@ -201,6 +211,8 @@ https://github.com/yoshi389111/github-profile-3d-contrib
 https://shields.io/
 
 https://dev.to/envoy_/150-badges-for-github-pnk
+                         
+https://github.com/vn7n24fzkq/github-profile-summary-cards
 
                          
 
