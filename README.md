@@ -1,22 +1,9 @@
+
+
 ### Hi there 👋
 
-<!--
-**iVuDang/iVuDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-
-
-react
-github_dark
-algolia
-
-:airplane:
-:world_map:
-:earth_asia:
--->
-
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
+- 🌱 I’m currently learning C++
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
@@ -176,7 +163,31 @@ Media production, art of visual storytelling through film and sound
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
+
+                        
 <!--
+**iVuDang/iVuDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning C++
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 
+- ⚡ Fun fact: ...
+
+react
+github_dark
+algolia
+
+:airplane:
+:world_map:
+:earth_asia:
+-->
+
+                         
+                         <!--
 CITATIONS 
 https://devicon.dev/
 
@@ -217,3 +228,5 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg
                 
 -->
+                         
+                         
