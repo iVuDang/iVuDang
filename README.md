@@ -27,7 +27,7 @@ algolia
 
 
 
-## :computer_mouse: My Software & Media Stack 
+## :computer: My Software & Media Stack 
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
