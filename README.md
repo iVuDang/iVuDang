@@ -120,12 +120,14 @@ algolia
 
 
 <!--
+https://devicon.dev/
 
-https://shields.io/
 https://github.com/anuraghazra/github-readme-stats
 
 https://github.com/marketplace/actions/github-profile-3d-contrib
 https://github.com/yoshi389111/github-profile-3d-contrib
+
+https://shields.io/
 
 https://dev.to/envoy_/150-badges-for-github-pnk
 
