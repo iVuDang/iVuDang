@@ -27,7 +27,7 @@ algolia
 
 
 
-## :battery: My Software & Media Stack 
+## :globe_with_meridians: My Software & Media Stack 
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
