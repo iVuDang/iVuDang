@@ -170,19 +170,19 @@
 
                          
 <strong> freeCodeCamp - Responsive Web Design </strong>    
-* [Build-a-Product-Landing-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page)
-* [Build-a-Personal-Portfolio-Webpage](https://github.com/iVuDang/freeCodeCamp-Build-a-Personal-Portfolio-Webpage)
-* [Build-a-Technical-Documentation-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Technical-Documentation-Page)
-* [Build a Survey Form](https://github.com/iVuDang/freeCodeCamp-Build-a-Survey-Form)
-* [Build-a-Tribute-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page)
+1. [Build-a-Product-Landing-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page)
+2. [Build-a-Personal-Portfolio-Webpage](https://github.com/iVuDang/freeCodeCamp-Build-a-Personal-Portfolio-Webpage)
+3.  [Build-a-Technical-Documentation-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Technical-Documentation-Page)
+4.  [Build a Survey Form](https://github.com/iVuDang/freeCodeCamp-Build-a-Survey-Form)
+5.  [Build-a-Tribute-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page)
                          
                          
 <strong> The Odin Project </strong>
-* [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
-* [The-Odin-Project-Calculator](https://github.com/iVuDang/The-Odin-Project-Calculator)
-* [Project: Rock Paper Scissors (Part II)](https://github.com/iVuDang/The-Odin-Project-Rock-Paper-Scissors)                 
-* [The Odin Project: Google Homepage](https://github.com/iVuDang/The-Odin-Project-Google-Homepage)
-* [The Odin Project - SQL Zoo](https://github.com/iVuDang/The-Odin-Project-SQL-Zoo-SELECT-FROM-WHERE)
+1. [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
+2. [The-Odin-Project-Calculator](https://github.com/iVuDang/The-Odin-Project-Calculator)
+3. [Project: Rock Paper Scissors (Part II)](https://github.com/iVuDang/The-Odin-Project-Rock-Paper-Scissors)                 
+4. [The Odin Project: Google Homepage](https://github.com/iVuDang/The-Odin-Project-Google-Homepage)
+5.  [The Odin Project - SQL Zoo](https://github.com/iVuDang/The-Odin-Project-SQL-Zoo-SELECT-FROM-WHERE)
                          
 
 
