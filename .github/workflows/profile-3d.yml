@@ -22,3 +22,8 @@ jobs:
           git add -A .
           git commit -m "generated"
           git push
+          
+          
+# https://github.com/marketplace/actions/github-profile-3d-contrib
+# https://github.com/yoshi389111/github-profile-3d-contrib
+# https://docs.github.com/en/actions/managing-workflow-runs/manually-running-a-workflow
