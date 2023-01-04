@@ -163,17 +163,22 @@
 
 
                          
-<!-- PROJECTS TIMELINE  -->
+<!-- PROJECTS TIMELINE / COLLECTIONS  -->
 ### :card_index_dividers: Projects Listing Timeline 
 
-<strong> freeCodeCamp - Computing with Python </strong>
+<strong> freeCodeCamp - Scientific Computing with Python </strong>
+1. [Probability-Calculator](https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
+2. [Polygon-Area-Calculator](https://github.com/iVuDang/freeCodeCamp-Polygon-Area-Calculator)
+3. [Budget-App](https://github.com/iVuDang/freeCodeCamp-Budget-App)
+4. [Time-Calculator](https://github.com/iVuDang/freeCodeCamp-Time-Calculator)                   
+5. [Arithmetic-Formatter](https://github.com/iVuDang/freeCodeCamp-Arithmetic-Formatter)                
 
 <strong> freeCodeCamp - JavaScript Algorithms and Data Structures </strong>
-[Telephone-Number-Validator](https://github.com/iVuDang/freeCodeCamp-Telephone-Number-Validator)
-[Cash-Register](https://github.com/iVuDang/freeCodeCamp-Cash-Register)    
-[Caesars-Cipher](https://github.com/iVuDang/freeCodeCamp-Caesars-Cipher)   
-[Roman-Numeral-Converter](https://github.com/iVuDang/freeCodeCamp-Roman-Numeral-Converter)   
-[Palindrome-Checker](https://github.com/iVuDang/freeCodeCamp-Palindrome-Checker) 
+1. [Telephone-Number-Validator](https://github.com/iVuDang/freeCodeCamp-Telephone-Number-Validator)
+2. [Cash-Register](https://github.com/iVuDang/freeCodeCamp-Cash-Register)    
+3. [Caesars-Cipher](https://github.com/iVuDang/freeCodeCamp-Caesars-Cipher)   
+4. [Roman-Numeral-Converter](https://github.com/iVuDang/freeCodeCamp-Roman-Numeral-Converter)   
+5. [Palindrome-Checker](https://github.com/iVuDang/freeCodeCamp-Palindrome-Checker) 
                                
 <strong> freeCodeCamp - Responsive Web Design </strong>    
 1. [Build-a-Product-Landing-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page)
