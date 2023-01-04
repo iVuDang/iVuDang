@@ -27,7 +27,7 @@ algolia
 
 
 
-## :world_map: My Software & Media Stack 
+## :desktop_computer: My Software & Media Stack 
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
