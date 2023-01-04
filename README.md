@@ -133,6 +133,15 @@ algolia
       />
       <br/> <strong> Visual Studio Code </strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+        width="48"
+        height="48"
+        alt="Canva"
+      />
+      <br/> <strong> Canva </strong>
+    </td>                      
    </tr>  <!-- Start Table Row 3 --> 
 </table>  
           
@@ -178,9 +187,5 @@ SVG SOCIAL MEDIA
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg
-                                
-                                
-                                
-                                
-                                
+                
 -->
