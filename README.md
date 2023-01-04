@@ -191,16 +191,21 @@ https://dev.to/envoy_/150-badges-for-github-pnk
 
 
 
-SVG SKILL ICONS ADD LATER
+SVG SKILL ICONS ADD LATER:
+SOFTWARE
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg     
-                                
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg
+                               
+                                
+MEDIA
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg
                                 
                                 
                                 
