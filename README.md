@@ -206,6 +206,9 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-origina
 MEDIA
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg
+                                
+          
                                 
                                 
                                 
