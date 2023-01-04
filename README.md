@@ -170,16 +170,20 @@
 
 **freeCodeCamp - Computing with Python** 
                          
-* [Design effective reports in Power BI] (https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
-* [Design effective reports in Power BI] (https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)     
+
+                         
+**The Odin Project** 
+* [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
+* [The-Odin-Project-Calculator](https://github.com/iVuDang/The-Odin-Project-Calculator)
+* [Project: Rock Paper Scissors (Part II)](https://github.com/iVuDang/The-Odin-Project-Rock-Paper-Scissors)                 
+* [The Odin Project: Google Homepage](https://github.com/iVuDang/The-Odin-Project-Google-Homepage)
+* [The Odin Project - SQL Zoo](https://github.com/iVuDang/The-Odin-Project-SQL-Zoo-SELECT-FROM-WHERE)
                          
 
-[The Odin Project - SQL Zoo](https://github.com/iVuDang/The-Odin-Project-SQL-Zoo-SELECT-FROM-WHERE)
+
                          
                          
                          
-                         
-                        
 <!--
 **iVuDang/iVuDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
