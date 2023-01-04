@@ -136,7 +136,7 @@ algolia
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"
         width="48"
         height="48"
-        alt="Adobe Illustrator"
+        alt="Illustrator"
       />
       <br/> <strong> Adobe Illustrator </strong>
     </td>    
