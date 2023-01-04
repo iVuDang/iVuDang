@@ -147,10 +147,6 @@ algolia
 </table>  
         
                                 
-                                
-<!-- TOP LANGUAGES BAR --> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVuDang&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 
 - - - -
 
