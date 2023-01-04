@@ -19,9 +19,18 @@ Media production, art of visual storytelling through film and sound
 react
 github_dark
 algolia
+
+:airplane:
+:world_map:
+:earth_asia:
 -->
 
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+          
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+          
+          
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVuDang&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
