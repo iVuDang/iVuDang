@@ -170,7 +170,7 @@
 
 **freeCodeCamp - Computing with Python** 
                          
-* 
+* [Design effective reports in Power BI](https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
                          
                          
 
