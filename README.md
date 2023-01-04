@@ -1,5 +1,6 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
+<i class="devicon-github-original"></i> 
+
 ### Hi there 👋
 
 <!--
@@ -103,8 +104,7 @@ algolia
         width="48"
         height="48"
         alt="GitHub"
-      />
-      <i class="devicon-github-original"></i>        
+      />    
       <br /><strong> GitHub </strong>
     </td>
   </tr>  <!-- Start Table Row 2 --> 
