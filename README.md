@@ -88,12 +88,12 @@ algolia
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
-        alt="MongoDB"
+        alt="Git"
       />
-      <br /><strong>MongoDB</strong>
+      <br /><strong> Git </strong>
     </td>
   </tr>  <!-- Start Table Row 2 --> 
   <tr>  <!-- Start Table Row 3 -->  
@@ -140,5 +140,19 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
-https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg                         
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg     
+                                
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg
+                                
+                                
+                                
+SVG SOCIAL MEDIA 
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
+
+                                
+                                
+                                
+                                
+                                
 -->
