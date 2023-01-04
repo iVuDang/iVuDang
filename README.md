@@ -101,7 +101,6 @@ algolia
         width="48"
         height="48"
         alt="GitHub"
-        style="background-color:powderblue;"
       />    
       <br /><strong> GitHub </strong>
     </td>
