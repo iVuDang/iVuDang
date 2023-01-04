@@ -142,16 +142,7 @@ algolia
         alt="Canva"
       />
       <br/> <strong> Canva </strong>
-    </td>          
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-plain.svg"
-        width="48"
-        height="48"
-        alt="Adobe Premiere Pro"
-      />
-      <br/> <strong> Adobe Premiere Pro </strong>
-    </td>      
+    </td>              
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
@@ -201,17 +192,15 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg
-                               
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
+                                                            
                                 
 MEDIA
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg
                                 
-          
-                                
-                                
-                                
+             
 SVG SOCIAL MEDIA 
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
