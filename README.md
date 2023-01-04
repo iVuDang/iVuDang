@@ -101,13 +101,12 @@ algolia
         width="48"
         height="48"
         alt="GitHub"
+        style="background-color:powderblue;"
       />    
       <br /><strong> GitHub </strong>
     </td>
   </tr>  <!-- Start Table Row 2 --> 
-  <tr> {
-  background-color: #D6EEEE;
-} <!-- Start Table Row 3 -->  
+  <tr> <!-- Start Table Row 3 -->  
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
