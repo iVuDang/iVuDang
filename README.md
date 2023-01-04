@@ -89,24 +89,6 @@ algolia
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
-        width="48"
-        height="48"
-        alt="Node.js"
-      />
-      <br /><strong>Node.js</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
-        width="48"
-        height="48"
-        alt="Express"
-      />
-      <br /><strong>Express</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
         height="48"
@@ -123,8 +105,6 @@ algolia
       />    
       <br /><strong> GitHub </strong>
     </td>
-  </tr>  <!-- Start Table Row 2 --> 
-  <tr> <!-- Start Table Row 3 -->  
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
@@ -160,8 +140,8 @@ algolia
         alt="Adobe Illustrator"
       />
       <br/> <strong> Adobe Illustrator </strong>
-    </td>                    
-   </tr>  <!-- Start Table Row 3 --> 
+    </td>    
+  </tr>  <!-- End - Table Row 2 -->              
 </table>  
         
                                 
