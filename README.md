@@ -172,7 +172,7 @@ algolia
 - - - -
 
 <!-- 3D ANIMATED GIT CONTRIBUTION DATA BARS  -->
-## :chart_with_upwards_trend:  STATS
+## :chart_with_upwards_trend: My Stats
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
