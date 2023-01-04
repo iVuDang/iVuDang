@@ -37,16 +37,16 @@ algolia
         height="48"
         alt="HTML"
       />
-      <br/> <strong>HTML5</strong>
+      <br/> <strong> HTML </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
         width="48"
         height="48"
-        alt="CSS3"
+        alt="CSS"
       />
-      <br/> <strong>CSS3</strong>
+      <br/> <strong> CSS </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -55,16 +55,16 @@ algolia
         height="48"
         alt="JavaScript"
       />
-      <br/> <strong>JavaScript</strong>
+      <br/> <strong> JavaScript </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
-        alt="TypeScript"
+        alt="Python""
       />
-      <br/> <strong>TypeScript </strong>
+      <br/> <strong> Python </strong>
     </td>
   </tr><!-- End - Table Row 1 -->        
   <tr> <!-- Start Table Row 2 --> 
@@ -120,6 +120,7 @@ algolia
 
 
 <!--
+CITATIONS 
 https://devicon.dev/
 
 https://github.com/anuraghazra/github-readme-stats
@@ -130,5 +131,14 @@ https://github.com/yoshi389111/github-profile-3d-contrib
 https://shields.io/
 
 https://dev.to/envoy_/150-badges-for-github-pnk
+
+
+
+SVG SKILL ICONS ADD LATER
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg
+
+
+
+
 
 -->
