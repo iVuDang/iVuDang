@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 
 - ⚡ Fun fact: ...
-- Travel... 
+- Travel... exploring, adventures, 
+Media production, art of visual storytelling through film and sound
 
 react
 github_dark
