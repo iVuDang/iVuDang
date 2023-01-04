@@ -27,7 +27,7 @@ algolia
 
 
 
-## :world_map: Technologies & Tools
+## :battery: Technologies & Tools
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
