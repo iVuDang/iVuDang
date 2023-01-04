@@ -27,7 +27,7 @@ algolia
 
 
 
-![](./profile-3d-contrib/profile-night-view.svg)
+![](./profile-3d-contrib/profile-night-green.svg)
 
 
 
