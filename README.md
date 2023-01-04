@@ -129,7 +129,7 @@ algolia
         height="48"
         alt="Adobe Premiere Pro"
       />
-      <br/> <strong> Adobe Premiere Pro </strong>
+      <br/> <strong> Premiere Pro </strong>
     </td>          
     <td align="center" height="108" width="108">
       <img
