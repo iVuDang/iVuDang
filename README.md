@@ -25,9 +25,6 @@ algolia
 :earth_asia:
 -->
 
-<!-- TOP LANGUAGES BAR --> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVuDang&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-
 
 
 # 🔧 Technologies & Tools
@@ -167,8 +164,12 @@ algolia
    </tr>  <!-- Start Table Row 3 --> 
 </table>  
           
-          
-- - - -
+                                
+<!-- TOP LANGUAGES BAR --> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVuDang&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
 
 <!-- 3D ANIMATED GIT CONTRIBUTION DATA BARS  -->
 ## :chart_with_upwards_trend:  Stats 	          
