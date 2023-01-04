@@ -39,7 +39,6 @@ algolia
       />
       <br/> <strong>HTML5</strong>
     </td>
-    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
@@ -49,7 +48,6 @@ algolia
       />
       <br/> <strong>CSS3</strong>
     </td>
-    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -59,7 +57,6 @@ algolia
       />
       <br/> <strong>JavaScript</strong>
     </td>
-    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -68,11 +65,8 @@ algolia
         alt="TypeScript"
       />
       <br/> <strong>TypeScript </strong>
-      
     </td>
-    
-  </tr><!-- End - Table Row 1 --> 
-          
+  </tr><!-- End - Table Row 1 -->        
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
@@ -93,7 +87,6 @@ algolia
       />
       <br /><strong>Express</strong>
     </td>
-    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -103,7 +96,6 @@ algolia
       />
       <br /><strong>MongoDB</strong>
     </td>
-    
   </tr>  <!-- Start Table Row 2 --> 
 </table>  
           
