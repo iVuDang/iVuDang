@@ -81,7 +81,7 @@ algolia
         height="48"
         alt="HTML"
       />
-      <br/> <strong> C++L </strong>
+      <br/> <strong> C++ </strong>
     </td>
     </td>
   </tr> <!-- End - Table Row 1 -->        
