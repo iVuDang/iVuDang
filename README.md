@@ -27,7 +27,7 @@ algolia
 
 
 
-## 🔧 Technologies & Tools
+## :world_map: Technologies & Tools
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
