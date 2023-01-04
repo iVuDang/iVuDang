@@ -84,10 +84,7 @@ algolia
       />
       <br/> <strong> C++ </strong>
     </td>
-    </td>
-  </tr> <!-- End - Table Row 1 -->        
-  <tr> <!-- Start Table Row 2 --> 
-    <td align="center" height="108" width="108">
+      <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
         width="48"
@@ -105,6 +102,8 @@ algolia
       />    
       <br /><strong> GitHub </strong>
     </td>
+  </tr> <!-- End - Table Row 1 -->        
+  <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
