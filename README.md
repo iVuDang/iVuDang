@@ -170,11 +170,11 @@
 
                          
 <strong> freeCodeCamp - Responsive Web Design </strong>    
-[Build-a-Product-Landing-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page)
-[Build-a-Personal-Portfolio-Webpage](https://github.com/iVuDang/freeCodeCamp-Build-a-Personal-Portfolio-Webpage)
-[Build a Survey Form](https://github.com/iVuDang/freeCodeCamp-Build-a-Survey-Form)
-[Build-a-Technical-Documentation-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Technical-Documentation-Page)
-[Build-a-Tribute-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page)
+* [Build-a-Product-Landing-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page)
+* [Build-a-Personal-Portfolio-Webpage](https://github.com/iVuDang/freeCodeCamp-Build-a-Personal-Portfolio-Webpage)
+* [Build-a-Technical-Documentation-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Technical-Documentation-Page)
+* [Build a Survey Form](https://github.com/iVuDang/freeCodeCamp-Build-a-Survey-Form)
+* [Build-a-Tribute-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page)
                          
                          
 <strong> The Odin Project </strong>
