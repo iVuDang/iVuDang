@@ -7,10 +7,10 @@
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 
-- ⚡ Fun fact: ...
-- Travel... exploring, adventures, 
-Media production, art of visual storytelling through film and sound
+- :airplane:
+- :world_map: Media production, art of visual storytelling through film and sound
+- :earth_asia: Travel... exploring, adventures, 
+
 
 - - - -
 
@@ -177,6 +177,8 @@ Media production, art of visual storytelling through film and sound
 - 😄 
 - ⚡ Fun fact: ...
 
+
+Themes:
 react
 github_dark
 algolia
@@ -187,7 +189,7 @@ algolia
 -->
 
                          
-                         <!--
+<!--
 CITATIONS 
 https://devicon.dev/
 
@@ -200,7 +202,7 @@ https://shields.io/
 
 https://dev.to/envoy_/150-badges-for-github-pnk
 
-
+                         
 
 SVG SKILL ICONS ADD LATER:
 SOFTWARE
@@ -220,8 +222,7 @@ MEDIA
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg
                                 
-                                
-             
+                                        
 SVG SOCIAL MEDIA 
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
