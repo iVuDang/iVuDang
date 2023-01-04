@@ -147,9 +147,9 @@ Media production, art of visual storytelling through film and sound
         src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
         width="48"
         height="48"
-        alt="Illustrator"
+        alt="Power BI"
       />
-      <br/> <strong> Illustrator </strong>
+      <br/> <strong> Power BI </strong>
     </td>    
   </tr>  <!-- End - Table Row 2 -->              
 </table>  
