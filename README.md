@@ -27,7 +27,7 @@ algolia
 
 
 
-## :computer: My Technologies & Tools
+## :computer: Technologies & Tools
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
