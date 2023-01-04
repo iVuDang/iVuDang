@@ -138,7 +138,7 @@ algolia
         height="48"
         alt="Illustrator"
       />
-      <br/> <strong> Adobe Illustrator </strong>
+      <br/> <strong> Illustrator </strong>
     </td>    
   </tr>  <!-- End - Table Row 2 -->              
 </table>  
