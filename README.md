@@ -152,12 +152,14 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg     
                                 
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg
                                 
                                 
                                 
 SVG SOCIAL MEDIA 
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
+                                
 
                                 
                                 
