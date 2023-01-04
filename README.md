@@ -104,7 +104,7 @@ algolia
         height="48"
         alt="Visual Studio Code"
       />
-      <br/> <strong>TypeScript </strong>
+      <br/> <strong> Visual Studio Code </strong>
     </td>
    </tr>  <!-- Start Table Row 3 --> 
 </table>  
