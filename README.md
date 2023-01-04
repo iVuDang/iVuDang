@@ -29,7 +29,8 @@ algolia
 # 🔧 Technologies & Tools
 
 <table>
-  <tr>
+  <tr> <!-- Start - Table Row 1 --> 
+    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
@@ -37,8 +38,9 @@ algolia
         height="48"
         alt="HTML"
       />
-      <br /><strong>HTML5</strong>
+      <br/> <strong>HTML5</strong>
     </td>
+    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
@@ -46,8 +48,9 @@ algolia
         height="48"
         alt="CSS3"
       />
-      <br /><strong>CSS3</strong>
+      <br/> <strong>CSS3</strong>
     </td>
+    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
@@ -55,20 +58,24 @@ algolia
         height="48"
         alt="JavaScript"
       />
-      <br /><strong>JavaScript</strong>
+      <br/> <strong>JavaScript</strong>
     </td>
+    
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
         width="48"
         height="48"
         alt="TypeScript"
       />
-      <br /><strong>TypeScript</strong>
+      <br/> <strong>TypeScript </strong>
+      
     </td>
-  </tr>
+    
+  </tr><!-- End - Table Row 1 --> 
           
-  <tr>
+  
+  <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"
@@ -78,6 +85,7 @@ algolia
       />
       <br /><strong>Node.js</strong>
     </td>
+    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"
@@ -87,6 +95,7 @@ algolia
       />
       <br /><strong>Express</strong>
     </td>
+    
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
@@ -96,8 +105,10 @@ algolia
       />
       <br /><strong>MongoDB</strong>
     </td>
-  </tr>
-</table>   
+    
+  </tr>  <!-- Start Table Row 2 --> 
+  
+</table>  
           
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iVuDang&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
