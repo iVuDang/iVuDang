@@ -25,9 +25,6 @@ algolia
 :earth_asia:
 -->
 
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-<i class="devicon-github-original"></i> 
-
 
 # 🔧 Technologies & Tools
 
@@ -108,7 +105,9 @@ algolia
       <br /><strong> GitHub </strong>
     </td>
   </tr>  <!-- Start Table Row 2 --> 
-  <tr>  <!-- Start Table Row 3 -->  
+  <tr> {
+  background-color: #D6EEEE;
+} <!-- Start Table Row 3 -->  
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
