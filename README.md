@@ -27,7 +27,7 @@ algolia
 
 
 
-## :mountain: My Software & Media Stack 
+## :volcano: My Software & Media Stack 
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
