@@ -193,12 +193,14 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg
-                                                            
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg
+                                                                  
                                 
 MEDIA
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xd/xd-plain.svg
+                                
                                 
              
 SVG SOCIAL MEDIA 
