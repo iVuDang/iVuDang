@@ -27,7 +27,7 @@ algolia
 
 
 
-## :volcano: My Software & Media Stack 
+## :sunrise_over_mountains: My Software & Media Stack 
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
