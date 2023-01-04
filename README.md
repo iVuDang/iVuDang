@@ -177,8 +177,7 @@ https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg
 SVG SOCIAL MEDIA 
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg
 https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg
-                                
-
+https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codepen/codepen-plain.svg
                                 
                                 
                                 
