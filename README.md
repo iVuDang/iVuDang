@@ -168,15 +168,20 @@
 
 <strong> freeCodeCamp - Computing with Python </strong>
 
-                         
+<strong> freeCodeCamp - JavaScript Algorithms and Data Structures </strong>
+[Telephone-Number-Validator](https://github.com/iVuDang/freeCodeCamp-Telephone-Number-Validator)
+[Cash-Register](https://github.com/iVuDang/freeCodeCamp-Cash-Register)    
+[Caesars-Cipher](https://github.com/iVuDang/freeCodeCamp-Caesars-Cipher)   
+[Roman-Numeral-Converter](https://github.com/iVuDang/freeCodeCamp-Roman-Numeral-Converter)   
+[Palindrome-Checker](https://github.com/iVuDang/freeCodeCamp-Palindrome-Checker) 
+                               
 <strong> freeCodeCamp - Responsive Web Design </strong>    
 1. [Build-a-Product-Landing-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page)
 2. [Build-a-Personal-Portfolio-Webpage](https://github.com/iVuDang/freeCodeCamp-Build-a-Personal-Portfolio-Webpage)
 3.  [Build-a-Technical-Documentation-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Technical-Documentation-Page)
 4.  [Build a Survey Form](https://github.com/iVuDang/freeCodeCamp-Build-a-Survey-Form)
 5.  [Build-a-Tribute-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page)
-                         
-                         
+                                              
 <strong> The Odin Project </strong>
 1. [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
 2. [The-Odin-Project-Calculator](https://github.com/iVuDang/The-Odin-Project-Calculator)
