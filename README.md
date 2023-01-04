@@ -169,6 +169,7 @@ algolia
 
 
 <!-- 3D ANIMATED GIT CONTRIBUTION DATA BARS  -->
+# Stats             
 ![](./profile-3d-contrib/profile-night-rainbow.svg)
 
 
