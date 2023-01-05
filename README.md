@@ -11,8 +11,7 @@
 
 
 
- [<img src="[img/myImage. png](https://img.shields.io/badge/YouTube-iVuDang-red )">](http://example.com/)
- 
+[![LinkedIn Badge](https://img.shields.io/badge/YouTube-iVuDang-red)](https://www.linkedin.com/in/iVuDang)
 - - - -
 
 <!-- SKILLS TABLE AND ICONS --> 
