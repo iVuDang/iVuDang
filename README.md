@@ -13,7 +13,6 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%20-b0c4de)](https://www.youtube.com/user/iVuDang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-b0c4de)](https://www.linkedin.com/in/ivudang/)
-
 [![CodePen](https://img.shields.io/badge/CodePen-%20-b0c4de)]((https://codepen.io/iVuDang))
 
 
