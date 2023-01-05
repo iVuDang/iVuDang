@@ -10,11 +10,11 @@
 - :airplane:
 - :world_map: Media production, art of visual storytelling through film and sound
 - :earth_asia: Travel... exploring, adventures, 
-:books:
-:hammer_and_wrench:
+- :books:
+- :hammer_and_wrench: I like to design and build media and software assets.
 
 
-I like to design and build media and software assets.
+
 I'm looking to improve my software engineering and media production stack. 
 
 - - - -
