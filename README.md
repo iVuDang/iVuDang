@@ -1,3 +1,4 @@
+<img src="https://github.com/iVuDang/iVuDang/blob/main/GitHub%20Banner.png">
 
 [![YouTube](https://img.shields.io/badge/YouTube-%20-b0c4de)](https://www.youtube.com/user/iVuDang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-b0c4de)](https://www.linkedin.com/in/ivudang/)
