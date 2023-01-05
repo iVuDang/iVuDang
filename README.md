@@ -6,8 +6,7 @@
 - :movie_camera: I'd like to improve my software engineering stack, and media production stack. 
 - 🔭 I’m currently working on a Comp Sci Degree, CS50's Intro to Comp Sci, and creating YouTube videos. 
 - 🌱 I’m currently learning C++
-- :airplane:
-- :world_map: I'm curious about the art of visual storytelling through film and sound.
+- :airplane: I'm curious about the art of visual storytelling through film and sound.
 - :earth_asia: I enjoy traveling the world, exploring, and creating adventures.  
 
 - - - -
