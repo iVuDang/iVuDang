@@ -2,10 +2,9 @@
 
 # Hi there 👋
 
-- :hammer_and_wrench: I want to design and build media and software assets.
-- :movie_camera: I'd like to improve my software engineering stack, and media production stack. 
-- 🔭 I’m currently working on a Comp Sci Degree, CS50's Intro to Comp Sci, and creating YouTube videos. 
-- 🌱 I’m currently learning C++
+- :hammer_and_wrench: I like design and build media and software assets.
+- :movie_camera: I'm improving my software engineering stack, and media production stack. 
+- 🌱 I’m currently working on a Comp Sci Degree, CS50's Intro to Comp Sci, and creating YouTube videos. 
 - :airplane: I'm curious about the art of visual storytelling through film and sound.
 - :earth_asia: I enjoy traveling the world, exploring, and creating adventures.  
 
