@@ -10,8 +10,9 @@
 - :airplane: I've been to 12+ countries. I'm heading to: Phillipines, Spain, Greece, Portugal, Czech Republic.
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
-[![YouTube](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=youtube&logoColor=white&color=0D76A8)]()
+
+ [<img src="[img/myImage. png](https://img.shields.io/badge/YouTube-iVuDang-red )">](http://example.com/)
+ 
 - - - -
 
 <!-- SKILLS TABLE AND ICONS --> 
