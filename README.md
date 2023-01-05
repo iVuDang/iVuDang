@@ -7,7 +7,7 @@
 - 🌱 I’m currently working on a Comp Sci Degree, CS50's Intro to Comp Sci, and creating YouTube videos. 
 - :heart: I'm curious about the art of visual storytelling through film and sound.
 - :earth_asia: I enjoy traveling the world, exploring, and creating adventures.  
-- :airplane: I've been to 12+ countries. I'm headed to: Phillipines, Spain, Greece, Portugal, Czech Republic
+- :airplane: I've been to 12+ countries. I'm heading to: Phillipines, Spain, Greece, Portugal, Czech Republic.
  
 - - - -
 
