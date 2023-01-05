@@ -11,7 +11,7 @@
 
 
 
-[![LinkedIn Badge](https://img.shields.io/badge/YouTube-iVuDang-red)](https://www.linkedin.com/in/iVuDang)
+[![](https://img.shields.io/badge/YouTube-iVuDang-red)](https://www.linkedin.com/in/iVuDang)
 - - - -
 
 <!-- SKILLS TABLE AND ICONS --> 
