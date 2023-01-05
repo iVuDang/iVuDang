@@ -11,6 +11,7 @@
 
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
+[![YouTube](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=youtube&logoColor=white&color=0D76A8)]()
 - - - -
 
 <!-- SKILLS TABLE AND ICONS --> 
