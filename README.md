@@ -12,10 +12,8 @@
 - :earth_asia: Travel... exploring, adventures, 
 - :books:
 - :hammer_and_wrench: I like to design and build media and software assets.
+- :movie_camera: I'm looking to improve my software engineering and media production stack. 
 
-
-
-I'm looking to improve my software engineering and media production stack. 
 
 - - - -
 
