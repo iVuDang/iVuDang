@@ -164,7 +164,7 @@
 
                          
 <!-- PROJECTS TIMELINE / COLLECTIONS / LISTING  -->
-### :card_index_dividers: Projects Collection 
+### :card_index_dividers: Projects Listing
 
 <strong> freeCodeCamp - Scientific Computing with Python: </strong>
 1. [Probability-Calculator](https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
@@ -187,7 +187,7 @@
 4.  [Build a Survey Form](https://github.com/iVuDang/freeCodeCamp-Build-a-Survey-Form)
 5.  [Build-a-Tribute-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page)
                                               
-<strong> The Odin Project: </strong>
+<strong> The Odin Project - Web Foundations: </strong>
 1. [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
 2. [The-Odin-Project-Calculator](https://github.com/iVuDang/The-Odin-Project-Calculator)
 3. [Project: Rock Paper Scissors (Part II)](https://github.com/iVuDang/The-Odin-Project-Rock-Paper-Scissors)                 
