@@ -11,7 +11,7 @@
 
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-iVuDang-red)](https://www.youtube.com/user/iVuDang)
+[![YouTube](https://img.shields.io/badge/YouTube-iVuDang-FF0000)](https://www.youtube.com/user/iVuDang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-ivudang-0077B5)](https://www.linkedin.com/in/ivudang/)
 
 - - - -
