@@ -163,31 +163,31 @@
 
 
                          
-<!-- PROJECTS TIMELINE / COLLECTIONS  -->
-### :card_index_dividers: Projects Listing Timeline 
+<!-- PROJECTS TIMELINE / COLLECTIONS / LISTING  -->
+### :card_index_dividers: Projects Timeline 
 
-<strong> freeCodeCamp - Scientific Computing with Python </strong>
+<strong> freeCodeCamp - Scientific Computing with Python: </strong>
 1. [Probability-Calculator](https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
 2. [Polygon-Area-Calculator](https://github.com/iVuDang/freeCodeCamp-Polygon-Area-Calculator)
 3. [Budget-App](https://github.com/iVuDang/freeCodeCamp-Budget-App)
 4. [Time-Calculator](https://github.com/iVuDang/freeCodeCamp-Time-Calculator)                   
 5. [Arithmetic-Formatter](https://github.com/iVuDang/freeCodeCamp-Arithmetic-Formatter)                
 
-<strong> freeCodeCamp - JavaScript Algorithms and Data Structures </strong>
+<strong> freeCodeCamp - JavaScript Algorithms and Data Structures: </strong>
 1. [Telephone-Number-Validator](https://github.com/iVuDang/freeCodeCamp-Telephone-Number-Validator)
 2. [Cash-Register](https://github.com/iVuDang/freeCodeCamp-Cash-Register)    
 3. [Caesars-Cipher](https://github.com/iVuDang/freeCodeCamp-Caesars-Cipher)   
 4. [Roman-Numeral-Converter](https://github.com/iVuDang/freeCodeCamp-Roman-Numeral-Converter)   
 5. [Palindrome-Checker](https://github.com/iVuDang/freeCodeCamp-Palindrome-Checker) 
                                
-<strong> freeCodeCamp - Responsive Web Design </strong>    
+<strong> freeCodeCamp - Responsive Web Design: </strong>    
 1. [Build-a-Product-Landing-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Product-Landing-Page)
 2. [Build-a-Personal-Portfolio-Webpage](https://github.com/iVuDang/freeCodeCamp-Build-a-Personal-Portfolio-Webpage)
 3.  [Build-a-Technical-Documentation-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Technical-Documentation-Page)
 4.  [Build a Survey Form](https://github.com/iVuDang/freeCodeCamp-Build-a-Survey-Form)
 5.  [Build-a-Tribute-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page)
                                               
-<strong> The Odin Project </strong>
+<strong> The Odin Project: </strong>
 1. [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
 2. [The-Odin-Project-Calculator](https://github.com/iVuDang/The-Odin-Project-Calculator)
 3. [Project: Rock Paper Scissors (Part II)](https://github.com/iVuDang/The-Odin-Project-Rock-Paper-Scissors)                 
