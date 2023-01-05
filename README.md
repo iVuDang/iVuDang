@@ -8,7 +8,9 @@
 -	:movie_camera: I'm curious about the art of visual storytelling through film and sound.
 - :earth_asia: I enjoy traveling the world, exploring, and creating adventures.  
 - :airplane: I've been to 12+ countries. I'm heading to: Phillipines, Spain, Greece, Portugal, Czech Republic.
- 
+
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=flat&logo=linkedin&logoColor=white&color=0D76A8)]()
 - - - -
 
 <!-- SKILLS TABLE AND ICONS --> 
