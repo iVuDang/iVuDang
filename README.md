@@ -17,9 +17,6 @@
 - :earth_asia: I love traveling the world, exploring, and creating adventures.  
 - :airplane: I've been to 12+ countries. Next up: Phillipines, Spain, Greece, Portugal, Czech Republic.
 
-<br>
-
-
 - - - -
 
 <!-- SKILLS TABLE AND ICONS --> 
