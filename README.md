@@ -169,6 +169,13 @@
 4. [Time-Calculator](https://github.com/iVuDang/freeCodeCamp-Time-Calculator)                   
 5. [Arithmetic-Formatter](https://github.com/iVuDang/freeCodeCamp-Arithmetic-Formatter)                
 
+<strong> The Odin Project - Web Foundations: </strong>
+1. [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
+2. [The-Odin-Project-Calculator](https://github.com/iVuDang/The-Odin-Project-Calculator)
+3. [Project: Rock Paper Scissors (Part II)](https://github.com/iVuDang/The-Odin-Project-Rock-Paper-Scissors)                 
+4. [The Odin Project: Google Homepage](https://github.com/iVuDang/The-Odin-Project-Google-Homepage)
+5.  [The Odin Project - SQL Zoo](https://github.com/iVuDang/The-Odin-Project-SQL-Zoo-SELECT-FROM-WHERE)                      
+                         
 <strong> freeCodeCamp - JavaScript Algorithms and Data Structures: </strong>
 1. [Telephone-Number-Validator](https://github.com/iVuDang/freeCodeCamp-Telephone-Number-Validator)
 2. [Cash-Register](https://github.com/iVuDang/freeCodeCamp-Cash-Register)    
@@ -183,17 +190,7 @@
 4.  [Build a Survey Form](https://github.com/iVuDang/freeCodeCamp-Build-a-Survey-Form)
 5.  [Build-a-Tribute-Page](https://github.com/iVuDang/freeCodeCamp-Build-a-Tribute-Page)
                                               
-<strong> The Odin Project - Web Foundations: </strong>
-1. [The-Odin-Project-Etch-a-Sketch](https://github.com/iVuDang/The-Odin-Project-Etch-a-Sketch)  
-2. [The-Odin-Project-Calculator](https://github.com/iVuDang/The-Odin-Project-Calculator)
-3. [Project: Rock Paper Scissors (Part II)](https://github.com/iVuDang/The-Odin-Project-Rock-Paper-Scissors)                 
-4. [The Odin Project: Google Homepage](https://github.com/iVuDang/The-Odin-Project-Google-Homepage)
-5.  [The Odin Project - SQL Zoo](https://github.com/iVuDang/The-Odin-Project-SQL-Zoo-SELECT-FROM-WHERE)
-                         
-
-
-                         
-                         
+        
                          
 <!--
 **iVuDang/iVuDang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
