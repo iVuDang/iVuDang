@@ -11,8 +11,19 @@
 
 
 
-[![YouTube](https://img.shields.io/badge/YouTube-iVuDang-000000)](https://www.youtube.com/user/iVuDang)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-ivudang-0077B5)](https://www.linkedin.com/in/ivudang/)
+[![YouTube](https://img.shields.io/badge/YouTube-%20-b0c4de)](https://www.youtube.com/user/iVuDang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-b0c4de)](https://www.linkedin.com/in/ivudang/)
+
+[![CodePen](https://img.shields.io/badge/CodePen-%20-b0c4de)]((https://codepen.io/iVuDang))
+
+
+(https://www.codewars.com/users/iVuDang)
+(https://www.duolingo.com/profile/ivudang)
+
+(https://www.ivudang.com/)
+(https://www.instagram.com/ivudang/)
+
+
 
 - - - -
 
