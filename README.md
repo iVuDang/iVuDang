@@ -9,7 +9,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-%20-b0c4de)](https://www.instagram.com/ivudang/)
 
 
-# Hi there, I'm Vu 👋
+# Hi there 👋
 
 - :hammer_and_wrench: I like to design and build media and software assets.
 - 	:mountain: I'm improving my software engineering stack, and media production stack. 
