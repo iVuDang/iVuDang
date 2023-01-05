@@ -5,7 +5,7 @@
 - :hammer_and_wrench: I like to design and build media and software assets.
 - :movie_camera: I'm improving my software engineering stack, and media production stack. 
 - 🌱 I’m currently working on a Comp Sci Degree, CS50's Intro to Comp Sci, and creating YouTube videos. 
-- :heart: I'm curious about the art of visual storytelling through film and sound.
+-	:purple_heart: I'm curious about the art of visual storytelling through film and sound.
 - :earth_asia: I enjoy traveling the world, exploring, and creating adventures.  
 - :airplane: I've been to 12+ countries. I'm heading to: Phillipines, Spain, Greece, Portugal, Czech Republic.
  
