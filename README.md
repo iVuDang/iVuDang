@@ -11,8 +11,9 @@
 - :world_map: Media production, art of visual storytelling through film and sound
 - :earth_asia: Travel... exploring, adventures, 
 - :books:
-- :hammer_and_wrench: I like to design and build media and software assets.
-- :movie_camera: I'm looking to improve my software engineering and media production stack. 
+- :hammer_and_wrench: I want to design and build media and software assets.
+- :movie_camera: I'd like to improve my software engineering and media production stack. 
+- 
 
 
 - - - -
