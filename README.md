@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning C++
 - :airplane:
 - :world_map: Media production, art of visual storytelling through film and sound
-- :earth_asia: Travel... exploring, adventures, 
+- :earth_asia: I enjoy traveling the world, exploring, and creating adventures.  
 
 - - - -
 
