@@ -160,8 +160,8 @@
 
                          
 <!-- PROJECTS TIMELINE / COLLECTIONS / LISTING  -->
-### :card_index_dividers: Projects Timeline (Newest to oldest)
-
+### :card_index_dividers: Projects Timeline 
+*Newest to oldest*
                          
 <strong> freeCodeCamp - Scientific Computing with Python: </strong>
 1. [Probability-Calculator](https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
