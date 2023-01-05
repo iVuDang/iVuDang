@@ -15,11 +15,11 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-b0c4de)](https://www.linkedin.com/in/ivudang/)
 [![CodePen](https://img.shields.io/badge/CodePen-%20-b0c4de)](https://codepen.io/iVuDang)
 [![CodeWars](https://img.shields.io/badge/CodeWars-%20-b0c4de)](https://www.codewars.com/users/iVuDang)
-[![Duolingo](https://img.shields.io/badge/Duolingo-%20-b0c4de)]((https://www.duolingo.com/profile/ivudang))
+[![Duolingo](https://img.shields.io/badge/Duolingo-%20-b0c4de)](https://www.duolingo.com/profile/ivudang)
+[![Website](https://img.shields.io/badge/Website-%20-b0c4de)](https://www.ivudang.com/)
 
 
 
-(https://www.ivudang.com/)
 (https://www.instagram.com/ivudang/)
 
 
