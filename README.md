@@ -2,7 +2,7 @@
 
 # Hi there 👋
 
-- :hammer_and_wrench: I like design and build media and software assets.
+- :hammer_and_wrench: I like to design and build media and software assets.
 - :movie_camera: I'm improving my software engineering stack, and media production stack. 
 - 🌱 I’m currently working on a Comp Sci Degree, CS50's Intro to Comp Sci, and creating YouTube videos. 
 - :airplane: I'm curious about the art of visual storytelling through film and sound.
@@ -160,8 +160,8 @@
 
                          
 <!-- PROJECTS TIMELINE / COLLECTIONS / LISTING  -->
-### :card_index_dividers: Projects Timeline
-*Newest to oldest*
+### :card_index_dividers: Projects Timeline (Newest to oldest)
+
                          
 <strong> freeCodeCamp - Scientific Computing with Python: </strong>
 1. [Probability-Calculator](https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
