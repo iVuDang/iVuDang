@@ -7,7 +7,6 @@
 - :airplane:
 - :world_map: Media production, art of visual storytelling through film and sound
 - :earth_asia: Travel... exploring, adventures, 
-- :books:
 - :hammer_and_wrench: I want to design and build media and software assets.
 - :movie_camera: I'd like to improve my software engineering stack, and media production stack. 
 - 
