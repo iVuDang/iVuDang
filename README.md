@@ -9,6 +9,8 @@
 - :earth_asia: I enjoy traveling the world, exploring, and creating adventures.  
 - :airplane: I've been to 12+ countries. I'm heading to: Phillipines, Spain, Greece, Portugal, Czech Republic.
 
+<br>
+
 [![YouTube](https://img.shields.io/badge/YouTube-%20-b0c4de)](https://www.youtube.com/user/iVuDang)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-b0c4de)](https://www.linkedin.com/in/ivudang/)
 [![CodePen](https://img.shields.io/badge/CodePen-%20-b0c4de)](https://codepen.io/iVuDang)
