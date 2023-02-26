@@ -173,10 +173,10 @@
 ### :card_index_dividers: Projects Timeline 
 *Newest to oldest*
                          
-<strong> Comp 1633 - C++: </strong>    
+<strong> Mount Royal University - Comp 1633 - C++: </strong>    
                          
                          
-<strong> Comp 1631 - Python: </strong>
+<strong> Mount Royal University - Comp 1631 - Python: </strong>
                                    
                          
 <strong> freeCodeCamp - Scientific Computing with Python: </strong>
