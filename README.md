@@ -173,6 +173,12 @@
 ### :card_index_dividers: Projects Timeline 
 *Newest to oldest*
                          
+<strong> Comp 1633 - C++ </strong>    
+                         
+                         
+<strong> Comp 1631 - Python </strong>
+                                   
+                         
 <strong> freeCodeCamp - Scientific Computing with Python: </strong>
 1. [Probability-Calculator](https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
 2. [Polygon-Area-Calculator](https://github.com/iVuDang/freeCodeCamp-Polygon-Area-Calculator)
