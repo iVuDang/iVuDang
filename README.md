@@ -13,7 +13,7 @@
 
 - :hammer_and_wrench: I like to design and build media and software assets.
 - :mountain: I'm improving my software engineering stack, and media production stack. 
-- 🌱 I’m currently working on a comp sci Degree, and creating YouTube videos. 
+- 🌱 I’m currently working on a comp sci degree, and creating YouTube videos. 
 - :movie_camera: I'm curious about the art of visual storytelling through film and sound.
 - :earth_asia: I love traveling the world, exploring, and creating adventures.  
 - :airplane: I've been to 12+ countries. I'm going to next: Phillipines, Spain, Greece, Portugal, Czech Republic.
