@@ -14,8 +14,7 @@
 
 - :hammer_and_wrench: I like to design and build media and software assets.
 - :mountain: I'm improving my software engineering stack, and media production stack. 
-- :movie_camera: I'm curious about the art of visual storytelling through film and sound.
-- :earth_asia: I love traveling the world, exploring, and creating adventures.  
+- :earth_asia: I love traveling, experiencing different cultures and meeting people. 
 - :airplane: I've been to 12+ countries. I'm going to next: Phillipines, Spain, Greece, Portugal, Czech Republic.
 
 - - - -
