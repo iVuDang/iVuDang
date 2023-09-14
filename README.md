@@ -13,9 +13,9 @@
 # Hi there 👋
 
 - :hammer_and_wrench: I like to design and build media and software assets.
-- :mountain: I'm improving my software engineering stack, and media production stack. 
-- :earth_asia: I love traveling, experiencing different cultures and meeting people. 
-- :airplane: I've been to 12+ countries. I'm going to next: Phillipines, Spain, Greece, Portugal, Czech Republic.
+- :mountain: 
+- :earth_asia: I love to travel, experiencing different cultures and meeting people. 
+- :airplane: I've been to 12+ countries.
 
 - - - -
 
