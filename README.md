@@ -14,7 +14,6 @@
 
 - :hammer_and_wrench: I like to design and build media and software assets.
 - :earth_asia: I love to travel, experience different cultures and meeting people. 
-- :airplane:  :mountain: 
 
 - - - -
 
