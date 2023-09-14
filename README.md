@@ -13,9 +13,8 @@
 # Hi there 👋
 
 - :hammer_and_wrench: I like to design and build media and software assets.
-- :mountain: 
-- :earth_asia: I love to travel, experiencing different cultures and meeting people. 
-- :airplane: 
+- :earth_asia: I love to travel, experience different cultures and meeting people. 
+- :airplane:  :mountain: 
 
 - - - -
 
