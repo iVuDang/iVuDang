@@ -1,9 +1,9 @@
 <img src="https://github.com/iVuDang/iVuDang/blob/main/GitHub%20Banner.png">
 
-[![YouTube](https://img.shields.io/badge/YouTube-%20-b0c4de)](https://www.youtube.com/user/iVuDang)
-[![Rumble](https://img.shields.io/badge/Rumble-%20-b0c4de)](https://rumble.com/c/c-776243)
-[![Instagram](https://img.shields.io/badge/Instagram-%20-b0c4de)](https://www.instagram.com/ivudang/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%20-b0c4de)](https://www.linkedin.com/in/ivudang/)
+[![YouTube](https://img.shields.io/badge/YouTube-%20-b0c4de)](https://www.youtube.com/user/iVuDang)
+[![Instagram](https://img.shields.io/badge/Instagram-%20-b0c4de)](https://www.instagram.com/ivudang/)
+[![Rumble](https://img.shields.io/badge/Rumble-%20-b0c4de)](https://rumble.com/c/c-776243)
 [![CodePen](https://img.shields.io/badge/CodePen-%20-b0c4de)](https://codepen.io/iVuDang)
 [![CodeWars](https://img.shields.io/badge/CodeWars-%20-b0c4de)](https://www.codewars.com/users/iVuDang)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%20-b0c4de)](https://www.duolingo.com/profile/ivudang)
@@ -168,14 +168,7 @@
                          
 <!-- PROJECTS TIMELINE / COLLECTIONS / LISTING  -->
 ### :card_index_dividers: Projects Timeline 
-*Newest to oldest*
-                         
-<strong> Mount Royal University - Comp 1633 - C++: </strong>    
-                         
-                         
-<strong> Mount Royal University - Comp 1631 - Python: </strong>
-                                   
-                         
+*Newest to oldest*                                                      
 <strong> freeCodeCamp - Scientific Computing with Python: </strong>
 1. [Probability-Calculator](https://github.com/iVuDang/freeCodeCamp-Probability-Calculator)
 2. [Polygon-Area-Calculator](https://github.com/iVuDang/freeCodeCamp-Polygon-Area-Calculator)
