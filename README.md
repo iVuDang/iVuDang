@@ -13,7 +13,7 @@
 # Hi there 👋
 
 - :hammer_and_wrench: I like to design and build assets.
-- :earth_asia: I love to travel and experience different people, places, and experiences. 
+- :earth_asia: I love traveling to discover people, places, and experiences. 
 
 - - - -
 
