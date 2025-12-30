@@ -34,15 +34,6 @@
     </td>   
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
-        width="48"
-        height="48"
-        alt="Power BI"
-      />
-      <br/> <strong> Power BI </strong>
-    </td>   
-    <td align="center" height="108" width="108">
-      <img
         src="https://github.com/sempostma/office365-icons/blob/master/svg/word.svg"
         width="48"
         height="48"
@@ -50,6 +41,15 @@
       />
       <br/> <strong> Word </strong>
     </td> 
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
+        width="48"
+        height="48"
+        alt="Power BI"
+      />
+      <br/> <strong> Power BI </strong>
+    </td>
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
