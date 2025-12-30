@@ -23,7 +23,7 @@
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
-      <td align="center" height="108" width="108">
+    <td align="center" height="108" width="108">
       <img
         src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"
         width="48"
@@ -41,6 +41,15 @@
       />
       <br/> <strong> Power BI </strong>
     </td>   
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/sempostma/office365-icons/blob/master/svg/word.svg"
+        width="48"
+        height="48"
+        alt="Excel"
+      />
+      <br/> <strong> Excel </strong>
+    </td> 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
