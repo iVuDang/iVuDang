@@ -93,7 +93,7 @@
         height="48"
         alt="Excel"
       />
-      <br/> <strong> Adobe Acrobat </strong>
+      <br/> <strong> Acrobat </strong>
     </td> 
   </tr> <!-- End - Table Row 1 -->        
   <tr> <!-- Start Table Row 2 --> 
