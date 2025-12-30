@@ -48,7 +48,7 @@
         height="48"
         alt="Excel"
       />
-      <br/> <strong> Excel </strong>
+      <br/> <strong> Word </strong>
     </td> 
     <td align="center" height="108" width="108">
       <img
