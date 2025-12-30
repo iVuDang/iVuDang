@@ -77,24 +77,6 @@
       />
       <br/> <strong> C++ </strong>
     </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong> Git </strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-        width="48"
-        height="48"
-        alt="GitHub"
-      />    
-      <br /><strong> GitHub </strong>
-    </td>
   </tr> <!-- End - Table Row 1 -->        
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
