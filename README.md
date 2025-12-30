@@ -81,21 +81,12 @@
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
         width="48"
         height="48"
-        alt="Canva"
+        alt="HTML"
       />
-      <br/> <strong> Canva </strong>
-    </td>              
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
-        width="48"
-        height="48"
-        alt="Adobe Premiere Pro"
-      />
-      <br/> <strong> Premiere Pro </strong>
+      <br/> <strong> C++ </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -126,12 +117,21 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
         width="48"
         height="48"
-        alt="HTML"
+        alt="Canva"
       />
-      <br/> <strong> C++ </strong>
+      <br/> <strong> Canva </strong>
+    </td>              
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
+        width="48"
+        height="48"
+        alt="Adobe Premiere Pro"
+      />
+      <br/> <strong> Premiere Pro </strong>
     </td>
   </tr>  <!-- End - Table Row 2 -->              
 </table>
