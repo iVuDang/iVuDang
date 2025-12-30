@@ -86,6 +86,8 @@
       />
       <br/> <strong> PowerPoint </strong>
     </td> 
+  </tr> <!-- End - Table Row 1 -->        
+  <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -104,8 +106,6 @@
       />
       <br/> <strong> SQL </strong>
     </td>
-  </tr> <!-- End - Table Row 1 -->        
-  <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
