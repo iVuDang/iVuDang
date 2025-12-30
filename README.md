@@ -99,7 +99,7 @@
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
         width="48"
         height="48"
         alt="Visual Studio Code"
@@ -141,16 +141,7 @@
         alt="Adobe Premiere Pro"
       />
       <br/> <strong> Premiere Pro </strong>
-    </td>          
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-line.svg"
-        width="48"
-        height="48"
-        alt="Illustrator"
-      />
-      <br/> <strong> Illustrator </strong>
-    </td>  
+    </td>           
   </tr>  <!-- End - Table Row 2 -->              
 </table>  
 
