@@ -23,6 +23,24 @@
 
 <table>
   <tr> <!-- Start - Table Row 1 --> 
+      <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"
+        width="48"
+        height="48"
+        alt="Excel"
+      />
+      <br/> <strong> Excel </strong>
+    </td>   
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
+        width="48"
+        height="48"
+        alt="Power BI"
+      />
+      <br/> <strong> Power BI </strong>
+    </td>   
     <td align="center" height="108" width="108">
       <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
@@ -31,6 +49,15 @@
         alt="Python""
       />
       <br/> <strong> Python </strong>
+    </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
+        width="48"
+        height="48"
+        alt="JavaScript"
+      />
+      <br/> <strong> JavaScript </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -49,15 +76,6 @@
         alt="CSS"
       />
       <br/> <strong> CSS </strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br/> <strong> JavaScript </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -81,33 +99,6 @@
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
-        width="48"
-        height="48"
-        alt="Visual Studio Code"
-      />
-      <br/> <strong> Visual Studio Code </strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"
-        width="48"
-        height="48"
-        alt="Excel"
-      />
-      <br/> <strong> Excel </strong>
-    </td>   
-    <td align="center" height="108" width="108">
-      <img
-        src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
-        width="48"
-        height="48"
-        alt="Power BI"
-      />
-      <br/> <strong> Power BI </strong>
-    </td>   
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
         width="48"
         height="48"
@@ -123,9 +114,9 @@
         alt="Adobe Premiere Pro"
       />
       <br/> <strong> Premiere Pro </strong>
-    </td>           
+    </td>
   </tr>  <!-- End - Table Row 2 -->              
-</table>  
+</table>
 
                          
 <!-- TOP LANGUAGES BAR --> 
