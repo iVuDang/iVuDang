@@ -61,6 +61,33 @@
     </td> 
     <td align="center" height="108" width="108">
       <img
+        src="https://github.com/sempostma/office365-icons/blob/master/svg/outlook.svg"
+        width="48"
+        height="48"
+        alt="Excel"
+      />
+      <br/> <strong> Outlook </strong>
+    </td> 
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/sempostma/office365-icons/blob/master/svg/teams.svg"
+        width="48"
+        height="48"
+        alt="Excel"
+      />
+      <br/> <strong> Teams </strong>
+    </td> 
+    <td align="center" height="108" width="108">
+      <img
+        src="https://github.com/sempostma/office365-icons/blob/master/svg/onenote.svg"
+        width="48"
+        height="48"
+        alt="Excel"
+      />
+      <br/> <strong> OneNote </strong>
+    </td> 
+    <td align="center" height="108" width="108">
+      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
         width="48"
         height="48"
