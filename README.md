@@ -86,6 +86,15 @@
       />
       <br/> <strong> PowerPoint </strong>
     </td> 
+    <td align="center" height="108" width="108">
+      <img
+        src="https://upload.wikimedia.org/wikipedia/commons/4/42/Adobe_Acrobat_DC_logo_2020.svg"
+        width="48"
+        height="48"
+        alt="Excel"
+      />
+      <br/> <strong> Adobe Acrobat </strong>
+    </td> 
   </tr> <!-- End - Table Row 1 -->        
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
