@@ -4,6 +4,7 @@
 [![YouTube](https://img.shields.io/badge/YouTube-%20-b0c4de)](https://www.youtube.com/user/iVuDang)
 [![CodePen](https://img.shields.io/badge/CodePen-%20-b0c4de)](https://codepen.io/iVuDang)
 [![CodeWars](https://img.shields.io/badge/CodeWars-%20-b0c4de)](https://www.codewars.com/users/iVuDang)
+[![freeCodeCamp](https://img.shields.io/badge/Duolingo-%20-b0c4de)](https://www.freecodecamp.org/ivudang)
 [![Duolingo](https://img.shields.io/badge/Duolingo-%20-b0c4de)](https://www.duolingo.com/profile/ivudang)
 [![Instagram](https://img.shields.io/badge/Instagram-%20-b0c4de)](https://www.instagram.com/ivudang/)
 
