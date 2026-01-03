@@ -166,7 +166,7 @@
         height="48"
         alt="Adobe Premiere Pro"
       />
-      <br/> <strong> Premiere Pro </strong>
+      <br/> <strong> Premiere </strong>
     </td>
   </tr>  <!-- End - Table Row 2 -->              
 </table>
