@@ -11,8 +11,8 @@
 
 # Hi there 👋
 
-- :hammer_and_wrench: I like to design and build assets.
-- :earth_asia: I love traveling to connect with people, places, and experiences. 
+- :hammer_and_wrench: I design and build automations and tools.
+- :earth_asia: I love traveling to connect with people, places, and and new perspectives.
 
 - - - -
 
