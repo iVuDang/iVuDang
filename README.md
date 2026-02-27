@@ -98,21 +98,21 @@
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+        src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"
         width="48"
         height="48"
-        alt="Python""
+        alt="Excel"
       />
-      <br/> <strong> Python </strong>
-    </td>
+      <br/> <strong> VBA </strong>
+    </td>   
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
         width="48"
         height="48"
-        alt="HTML"
+        alt="Power BI"
       />
-      <br/> <strong> SQL </strong>
+      <br/> <strong> DAX </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
@@ -131,24 +131,6 @@
         alt="JavaScript"
       />
       <br/> <strong> JavaScript </strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"
-        width="48"
-        height="48"
-        alt="HTML"
-      />
-      <br/> <strong> HTML </strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"
-        width="48"
-        height="48"
-        alt="CSS"
-      />
-      <br/> <strong> CSS </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
