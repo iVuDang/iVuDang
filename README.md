@@ -89,7 +89,7 @@
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
       <img 
-        src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" 
         width="48" 
         height="48" 
         alt="VBA" 
@@ -98,7 +98,7 @@
     </td>   
     <td align="center" height="108" width="108">
       <img
-        src=""
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
         width="48"
         height="48"
         alt="DAX"
