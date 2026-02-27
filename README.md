@@ -97,26 +97,12 @@
   </tr> <!-- End - Table Row 1 -->        
   <tr> <!-- Start Table Row 2 --> 
     <td align="center" height="108" width="108">
-      <div style="position: relative; display: inline-block;">
-        <img
-          src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg"
-          width="48"
-          height="48"
-          alt="VBA"
+      <img 
+        src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" 
+        width="48" 
+        height="48" 
+        alt="Excel" 
         />
-        <span style="
-          position: absolute;
-          bottom: -4px;
-          right: -6px;
-          background: #5c2d91;
-          color: white;
-          font-size: 10px;
-          padding: 2px 4px;
-          border-radius: 4px;
-        ">
-          { }
-        </span>
-      </div>
       <br/> <strong> VBA </strong>
     </td>   
     <td align="center" height="108" width="108">
