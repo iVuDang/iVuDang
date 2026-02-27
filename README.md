@@ -29,7 +29,7 @@
         height="48"
         alt="Excel"
       />
-      <br/> <strong> Excel (VBA) </strong>
+      <br/> <strong> Excel </strong>
     </td>   
     <td align="center" height="108" width="108">
       <img
@@ -38,7 +38,7 @@
         height="48"
         alt="Power BI"
       />
-      <br/> <strong> Power BI | DAX </strong>
+      <br/> <strong> Power BI </strong>
     </td>
     <td align="center" height="108" width="108">
       <img
