@@ -92,16 +92,16 @@
         src="https://github.com/sempostma/office365-icons/blob/master/svg/excel.svg" 
         width="48" 
         height="48" 
-        alt="Excel" 
+        alt="VBA" 
         />
       <br/> <strong> VBA </strong>
     </td>   
     <td align="center" height="108" width="108">
       <img
-        src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg"
+        src=""
         width="48"
         height="48"
-        alt="Power BI"
+        alt="DAX"
       />
       <br/> <strong> DAX </strong>
     </td>
