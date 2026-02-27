@@ -102,7 +102,6 @@
         width="48" 
         height="48" 
         alt="Excel" 
-        style="box-shadow: 0 0 6px rgba(92, 45, 145, 0.6); border-radius: 8px;"
         />
       <br/> <strong> VBA </strong>
     </td>   
@@ -126,7 +125,7 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
+        src="https://cdn.jsdelivr.net/gh/devicons/icons/azuresqldatabase/azuresqldatabase-original.svg"          
         width="48"
         height="48"
         alt="HTML"
