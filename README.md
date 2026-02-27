@@ -102,7 +102,7 @@
         width="48" 
         height="48" 
         alt="Excel" 
-        style="filter: hue-rotate(260deg) saturate(1.3);"
+        style="box-shadow: 0 0 6px rgba(92, 45, 145, 0.6); border-radius: 8px;"
         />
       <br/> <strong> VBA </strong>
     </td>   
