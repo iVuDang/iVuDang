@@ -125,10 +125,10 @@
     </td>
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/icons/azuresqldatabase/azuresqldatabase-original.svg"          
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"          
         width="48"
         height="48"
-        alt="HTML"
+        alt="SQL"
       />
       <br/> <strong> SQL </strong>
     </td>
