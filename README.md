@@ -102,6 +102,7 @@
         width="48" 
         height="48" 
         alt="Excel" 
+        style="filter: hue-rotate(260deg) saturate(1.3);"
         />
       <br/> <strong> VBA </strong>
     </td>   
