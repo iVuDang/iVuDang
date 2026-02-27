@@ -134,15 +134,6 @@
     </td> 
     <td align="center" height="108" width="108">
       <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
-        width="48"
-        height="48"
-        alt="Canva"
-      />
-      <br/> <strong> Canva </strong>
-    </td>              
-    <td align="center" height="108" width="108">
-      <img
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg"
         width="48"
         height="48"
@@ -150,6 +141,15 @@
       />
       <br/> <strong> Premiere </strong>
     </td>
+    <td align="center" height="108" width="108">
+      <img
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"
+        width="48"
+        height="48"
+        alt="Canva"
+      />
+      <br/> <strong> Canva </strong>
+    </td>              
   </tr>  <!-- End - Table Row 2 -->              
 </table>
 
